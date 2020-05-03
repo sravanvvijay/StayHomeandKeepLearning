@@ -8,7 +8,7 @@ These are the instructions for setting up the site, including using the Google S
 In addition, you should have the AWS CLI installed, as it currently uses whatever profile you specify in the aws_config.ini for connecting to AWS.
 
 Setup local repository
-Clone repository git clone https://github.com/dylanjcastillo/stayhomeandlearn.org.git
+Clone repository git clone 
 Get into the repository's local folder and create a virtual environment: python3 -m venv venv
 Activate the virtual environment: source venv/bin/activate
 Install required libraries: pip3 install -r requirements.txt
