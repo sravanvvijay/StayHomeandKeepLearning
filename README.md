@@ -13,7 +13,7 @@ Get into the repository's local folder and create a virtual environment: python3
 Activate the virtual environment: source venv/bin/activate
 Install required libraries: pip3 install -r requirements.txt
 Using the Google Sheets API
-Create a Workbook in Google Sheets (you can copy mine: Stay Home and Learn)
+Create a Workbook in Google Sheets
 Go to the Google APIs Console
 Create a new project.
 Click on Enable API and Services. Search for and enable the Google Sheets API.
